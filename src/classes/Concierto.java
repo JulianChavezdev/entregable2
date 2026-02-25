@@ -101,7 +101,7 @@ public class Concierto {
     }
 
     public double calcularPrecioMedio() throws CeroEntradasException {
-        if (entradasVendidas.size() == 0) {
+        if (entradasVendidas.isEmpty()) {
             throw new CeroEntradasException("El concierto no tiene entradas vendidas");
         }
             return calcularRecaudacion() / entradasVendidas.size();
