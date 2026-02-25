@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b53eac8f-2c81-4468-98b0-59eadc831e4e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Excepciones-y-pruebas/act1ud4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excepciones-y-pruebas/src/Concierto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Excepciones-y-pruebas/src/classes/Concierto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excepciones-y-pruebas/src/Entrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/Excepciones-y-pruebas/src/classes/Entrada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excepciones-y-pruebas/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Excepciones-y-pruebas/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excepciones-y-pruebas/src/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Excepciones-y-pruebas/src/classes/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excepciones-y-pruebas/src/test/test/ConciertoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Excepciones-y-pruebas/src/test/test/ConciertoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excepciones-y-pruebas/src/test/test/EntradaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Excepciones-y-pruebas/src/test/test/EntradaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excepciones-y-pruebas/src/test/test/UsuarioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exceptions" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Excepciones-y-pruebas" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -37,9 +30,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConciertoTest.executor": "Run",
+    "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.ConciertoTest.executor": "Run",
     "JUnit.EntradaTest.executor": "Run",
+    "JUnit.UsuarioTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -79,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772017308231</updated>
-      <workItem from="1772017309482" duration="1421000" />
+      <workItem from="1772017309482" duration="2118000" />
     </task>
     <servers />
   </component>
